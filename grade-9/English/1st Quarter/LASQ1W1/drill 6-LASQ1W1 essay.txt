@@ -1,0 +1,7 @@
+Essay:
+
+Topic: Typing in different layout (Workman Layout) as a programmer
+
+Did you ever wonder why the keys in our keyboard are set up like a jumbled mess and aren't in alphabetical order? Well, that's because the qwerty layout was invented to create maximum separation between keys, this is important so as to avoid jamming because the old typewriters cannot erase characters. Nowadays, people prefer to use word editors and modern keyboards - these can erase characters. Since then, many alternative layouts can be easily made because of our advancement in technology. 
+
+Introducing Workman layout - it may not be the fastest layout but it is useful nonetheless. This layout is the lowest finger-travel distance keys out of all the layouts. As is the case for data encoders and programmers who tend to type a lot, you may suffer from strain injuries. This layout, however, can avoid that issue but still maintains location of keyboard shortcut keys which is the problem of most colemak users. When I saw this layout and its purpose, I got really excited but I couldn't get faster than 10 wpm (words per minute) when I started. Since I like programming a lot, before I work I try to learn this layout and so after 3 weeks I managed to get above the average speed of 50 wpm. I would like to practice more so I can type faster.

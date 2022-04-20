@@ -1,0 +1,8 @@
+Illustrates quadratic equations.
+
+Solves quadratic equations by: 
+
+a. Extrating square roots
+b. Factoring
+c. Completing the square
+d. using the quadratic formula

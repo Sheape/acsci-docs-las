@@ -1,0 +1,64 @@
+Frequency Distribution
+
+- how frequent data where seen or present
+
+Measure of Central Tendency
+- "Average"
+
+1. Mean - real average
+2. Median - arranging the numbers and looking the middle
+3. Mode - the most frequent data.
+
+Statistical Tests
+
+Chi - square
+T-test - 2 samples
+Anova - 3 or more samples
+Correlation
+
+P-Value - tell us the probability of things.
+
+Exercise:
+
+15, 16, 16, 19, 23, 24, 35
+
+Purpose:
+ - Comparison: Any Difference?
+ - Relationship: Any Connection?
+
+Type of Data:
+ Categorical Data: Qualitative
+ Continuous Data: Quantitative
+
+Choosing the Statistical Test:
+
+ - Chi - Squared - Comparison and Categorical
+    - All experiments are the same to all the number of levels/groups.
+    - No limit in samples
+ - T-Test - Comparison, Categorical and Continuous
+     - 1 level/group (IV): 1-sample t-test
+     - 2 level/group (IV): 2-sample unpaired t-test
+		  : 2-sample paired t-test
+      - 3+ levels/groups (IV): one-way ANOVA (Analysis of variance)
+ - Correlation - Relationship and continuous
+      - 1 IV & 1 DV: Pearson's correlation, Regression (Statistical Formula)
+
+P - Value stands for probability value.
+result is by chance alone. 
+
+If the p-value is small, it means unlikely to have occured
+Small p-value = greater than chance alone
+Large p-value = result is within chance or normal sampling error.
+
+p-value can be 0-1.
+
+Alpha - a = 0.5 and a = 0.1
+p = sig
+
+with a = 0.5 
+ p < a, the test is significant
+ p > a, the test is not sigficant
+
+with a = 0.1
+ p < a, the test is significant
+ p > a, the test is not significant.

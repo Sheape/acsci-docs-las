@@ -1,0 +1,10 @@
+Stars
+
+Characteristics of the stars: 
+
+1. Brightness
+2. Color
+3. Surface Temperature
+4. Size
+5. Mass
+
